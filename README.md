@@ -11,7 +11,6 @@ The upcoming projects that will be created for the whole month will be:\
 **`Role Management System` within work, ideally with UI but will prefer with CLI/Terminal Only.**\
 \
 \
-\
 Should i not meet this projects within the alotted time, i will continue to finish this through the next month within `10days only!`.\
 That being said, the first project will be made is the `Calculator`.\
 \
