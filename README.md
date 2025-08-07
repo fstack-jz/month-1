@@ -15,7 +15,6 @@ Should i not meet this projects within the alotted time, i will continue to fini
 That being said, the first project will be made is the `Calculator`.\
 \
 \
-\
 ***Before i start, i would like to put the structure of how will i create the calculator:***\
 `Idea` = Create a calculator with UI and History Tracking.\
 `Application` = Understand how logic works and data management in order to make said project.\
