@@ -6,10 +6,10 @@ This `README` file will contain the record/documentation of my progress in progr
 \
 <sup>Please be noted that as the repository is named; so does the record does, meaning that this only contains 1 month of my progress in programming/coding.</sup>\
 \
-\
 The upcoming projects that will be created for the whole month will be:\
 **`Calculator` _preferably with_ `UI`**.\
 **`Role Management System` within work, ideally with UI but will prefer with CLI/Terminal Only.**\
+\
 \
 \
 Should i not meet this projects within the alotted time, i will continue to finish this through the next month within `10days only!`.\
