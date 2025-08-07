@@ -18,3 +18,6 @@ Should i not meet this projects within the alotted time, i will continue to fini
 `Application` = Understand how logic works and data management in order to make said project.\
 `Optionals` = Create UI within that said calculator, but cannot use extensive programming language.\
 `Language` = Python only.
+
+DAY 1:
+Created `main.py` and added some functions such as addition,subtraction,multiplication and division.
