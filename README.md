@@ -2,7 +2,7 @@
 
 Hello everyone, i am **_Johnzel Marahay_**, _18_, _Male_ and currently _studying at OLLC_\
 \
-This `README` file will contain the record/documentation of my progress in programming, its to showcase what i improved on over the years and what i also leanred throughout that period.\
+This `README` file will contain the <ins>record/documentation of my progress in programming</ins>, its to showcase what i improved on over the years and what i also leanred throughout that period.\
 <sup>Please be noted that as the repository is named; so does the record does, meaning that this only contains 1 month of my progress in programming/coding.</sup>\
 \
 The upcoming projects that will be created for the whole month will be:\
