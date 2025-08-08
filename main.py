@@ -16,15 +16,9 @@ def main():
                  ": ")
     age = input("Please enter your current age\n"
                 ": ")
-    def age_checker():
-        while True:
-            age = input("Please enter your current age\n"
-                        ": ")
-            if age == int:
-                age = age
-            else: 
-                print("Please enter your age as a number.")
-    age = age_checker
+    if age != 0:
+        print("Please input a valid number")
+        return
     occupation = input("Enter your current occupation\n"
                        ": ")
     place_of_work_or_study = input("In?\n"
