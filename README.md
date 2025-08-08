@@ -24,8 +24,8 @@ Should i not meet this projects within the alotted time, i will continue to fini
 \
 \
 ***DAY 1:***
-Created `main.py` and added some functions such as addition,subtraction,multiplication and division.
+Created `main.py` and added some functions such as addition,subtraction,multiplication and division.\
 
 ***DAY 2:***
-Changed the context of `main.py` into user log-on interface js to check my variable and syntax knowledge,
-decided to stop due to errors and remaining time to go to school.
+Changed the context of `main.py` into user log-on interface just to check my variable and syntax knowledge,
+decided to stop due to errors and few remaining time to go to school.
