@@ -29,3 +29,7 @@ Created `main.py` and added some functions such as addition,subtraction,multipli
 ***DAY 2:***
 Changed the context of `main.py` into user log-on interface just to check my variable and syntax knowledge,
 decided to stop due to errors and few remaining time to go to school.
+
+***DAY 3:***
+Fixed a bug/error where the script continue to work even if the input of a person in age is typed in str, added while loop to this error and solve it.
+Also new addition to UserInterface for login stuff, might be only a prototype since i need to have a `.json` file to store data like password and login
