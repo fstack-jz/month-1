@@ -13,17 +13,22 @@ def tpwrtr(text, delay=0.09):
 
 def main():
     name = input("What is your name?\n"
-                 ": ")
-    age = input("Please enter your current age\n"
-                ": ")
-    if age != 0:
-        print("Please input a valid number")
-        return
+                 ": ").upper()
+    while True:
+        age = input("What is your age?\n" \
+        ": ")
+        if age.isdigit():
+            break
+        else:
+            print("Please enter a number only.")
     occupation = input("Enter your current occupation\n"
-                       ": ")
+                       ": ").upper()
     place_of_work_or_study = input("In?\n"
-                                   ": ")
+                                   ": ").upper()
+    
 
-    print(f"\nGreetings!, {name}!, You are currently {age} years old and a {occupation} in {place_of_work_or_study}!")
+    print("-----User Interface-----")
+    print(f"\nGreetings!, {name}!, you are currently {age} and a {occupation} in {place_of_work_or_study}\n")
+    print("------------------------")
 
 main()
